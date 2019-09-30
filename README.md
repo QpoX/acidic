@@ -1,2 +1,2 @@
 # acidic
-Acidic is an OpenSource rebuild og Basic
+Acidic is an OpenSource rebuild of Basic
